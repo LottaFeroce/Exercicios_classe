@@ -1,0 +1,2 @@
+def relat():
+    print("relatorio")
